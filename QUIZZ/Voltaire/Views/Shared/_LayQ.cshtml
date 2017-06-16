@@ -1,0 +1,244 @@
+﻿<!DOCTYPE html>
+<html>
+<title> Acceuil </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue-grey.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<style>
+    html,
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        font-family: "Open Sans", sans-serif
+    }
+
+</style>
+
+<style type="text/css">
+    
+    ul li .check{
+        display: block;
+        position: absolute;
+        border: 5px solid #AAAAAA;
+        border-radius: 100%;
+        height: 30px;
+        width: 30px;
+        top: 30px;
+        left: 20px;
+        z-index: 5;
+        transition: border .25s linear;
+        -webkit-transition: border .25s linear;
+    }
+
+    ul li:hover .check {
+        border: 5px solid #FFFFFF;
+    }
+
+    ul li .check::before {
+        display: block;
+        position: absolute;
+        content: '';
+        border-radius: 100%;
+        height: 14px;
+        width: 14px;
+        top: 3px;
+        left: 3px;
+        margin: auto;
+        transition: background 0.25s linear;
+        -webkit-transition: background 0.25s linear;
+    } 
+     .i {color:white}
+    .c {
+        color: white;
+        background-color: #063852
+    }
+    
+    .w {
+        color: #3B5998
+    }
+    
+    .d {
+        color: black;
+        background-color: #E9E8E9
+    }
+    
+    .b {
+        color: black
+    }
+    
+    .d {
+        color: white;
+        background-color: black
+    }
+    
+    .y {
+        color: #FAA61A;
+    }
+    .e {
+        color: black;
+        background-color: #063852  }
+    .r{
+        color: black;
+        background-color: #D4EAAF;
+    }
+</style>
+
+<body style="background-color:oldlace">
+
+<!-- Navbar -->
+<div class="w3-top">
+    <div class="w3-bar c  w3-left-align w3-large"><a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-theme-d2"><em class="fa fa-bars"></em></a>
+        <a href="acceuil.html">
+            <div class="w3-bar-item w3-padding-large  w3-button"><em style="font-size:24px" class="fa fa-quora w3-margin-right i"></em> <span style="font-family: Snell Roundhand;color: white;font-stretch: ultra-expanded"><strong> EMI-</strong> <strong>Quizz</strong></span><br>
+            </div>
+        </a>
+     
+
+
+        <form  class="w3-bar-item w3-right " action="/Niveaux/Index/" method="post">
+            <input type="hidden" name="diff" value="@Session["diff"]"/>
+            <button title="Retourner vers la liste des niveaux" type="submit" class="r"><strong>Sortir</strong></button>
+        </form>
+    </div>
+</div>
+
+
+<!-- Page Container -->
+<div class="w3-container w3-content" style="max-width:1400px;margin-top:80px">
+
+  
+    <style>  
+        .button {  
+            background-color: #4CAF50; /* Green */  
+            border: none;  
+            color: white;  
+            padding: 15px 32px;  
+            text-align: center;  
+            text-decoration: none;  
+            display: inline-block;  
+            font-size: 16px;  
+            margin: 4px 2px;  
+            cursor: pointer;  
+        }  
+  
+        .button1 {  
+            border-radius: 2px;  
+        }  
+  
+        .button2 {  
+            border-radius: 4px;  
+        }  
+  
+        .button3 {  
+            border-radius: 8px;  
+        }  
+  
+        .button4 {  
+            border-radius: 12px;  
+        }  
+  
+        .button5 {  
+            border-radius: 50%;  
+        }  
+    </style>  
+    @*<div>  
+    
+        <fieldset>  
+    
+            <div class="container">  
+                <div class="row">  
+                    <div class="col-xs-12">  
+  
+                        <button id="btnShowModal" type="button"  
+                                class="btn btn-sm btn-default pull-left col-lg-11 button button4">  
+                            clickkkkkk pr modal 
+                        </button>  
+  
+                        <div class="modal fade" tabindex="-1" id="loginModal"  
+                             data-keyboard="false" data-backdrop="static">  
+                            <div class="modal-dialog modal-lg">  
+                                <div class="modal-content">  
+
+                                    <div class="modal-header">  
+                                        <button type="button" class="close" data-dismiss="modal">  
+                                            ×  
+                                        </button>  
+                                        <h4 class="modal-title">Titre</h4>  
+                                    </div>  
+
+                                    <div class="modal-body">  
+                                        <form>  
+                                            <div class="form-group">  
+                                                <input class="form-control" type="text"  
+                                                       placeholder="Login Username" id="inputUserName" />  
+                                            </div>  
+                                            <div class="form-group">  
+                                                <input class="form-control" placeholder="Login Password"  
+                                                       type="password" id="inputPassword" />  
+                                            </div>  
+                                        </form>  
+                                    </div>  
+
+                                    <div class="modal-footer">  
+                                        <button type="submit" class="btn btn-primary button button4">Sign</button>  
+                                        <button type="button" id="btnHideModal" class="btn btn-primary button button4">  
+                                            Hide  
+                                        </button>  
+                                    </div>  
+
+                                </div>  
+                            </div>  
+                        </div>  
+  
+                    </div>  
+                </div>  
+            </div>  
+        </fieldset>  
+    </div>  
+    <footer>  
+        <p style="background-color: Yellow; font-weight: bold; color:blue; text-align: center; font-style: oblique">  
+            <script> document.write(new Date().toDateString()); </script>  
+        </p>  
+    </footer>  
+    <script src="~/Scripts/jquery-3.1.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script> 
+    <script type="text/javascript">  
+        $(document).ready(function () {  
+            $("#btnShowModal").click(function () {
+                $("#loginModal").modal('show');
+      
+            });  
+  
+            $("#btnHideModal").click(function () {  
+                $("#loginModal").modal('hide');  
+            });  
+        });  
+    </script>*@  
+
+       
+       
+ 
+    @RenderBody()
+        
+
+   
+   
+</div>
+<br>
+
+    
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", required: false)
+
+</body>
+
+</html>

@@ -1,0 +1,58 @@
+﻿@model Voltaire.Models.Question
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Question</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Niveau.titre_niv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Niveau.titre_niv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.enonce)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.enonce)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.correction)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.correction)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.regle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.regle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.phrasecorrecte)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.phrasecorrecte)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

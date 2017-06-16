@@ -1,0 +1,149 @@
+﻿@model IEnumerable<Voltaire.Models.Niveau>
+@{
+    Layout = "~/views/shared/_LayN.cshtml";
+}
+@{
+    ViewBag.Title = "Index";
+    List<int> l = (List<int>) Session["list"];
+    List<int> ls = (List<int>)Session["listDesScores"];
+    int i = 0;
+}
+<script>
+    function preventBack(){window.history.forward();}
+    setTimeout("preventBack()", 0);
+    window.onunload=function(){null};
+</script>
+
+
+@*<p>
+    @Html.ActionLink("Retourner a la liste ", "Index", "Difficultes")
+</p>*@
+
+<!-- Page Container -->
+<div class="w3-container w3-content" style="max-width:1400px;margin-top:80px">    
+    <!-- The Grid -->
+    <div class="w3-row">
+        <!-- Left Column -->
+        <div class="w3-col m3">
+            <!-- Profile -->
+            <div class="w3-card-2 w3-round w3-white">
+                <div class="w3-container w3-padding">
+                    <h4 class="w3-center">Ayoub Bennouna</h4>
+                    <p class="w3-center "><img src="~/Content/img/3.png" style="height:106px;width:106px" alt="Avatar"></p>
+                    <hr>
+                    <p><em class="fa fa-pencil fa-fw w3-margin-right w"></em>Etudiant</p>
+                    <p><em class="fa fa-home fa-fw w3-margin-right w"></em> Rabat,Agdal</p>
+                    <p><em class="fa fa-birthday-cake fa-fw w3-margin-right w"></em> Mai 18, 1995</p>
+                </div>
+            </div>
+            <br>
+      
+            <!-- Accordion -->
+            <div class="w3-card-2 w3-round">
+                <div class="w3-white">
+                    <div id="Demo1" class="w3-hide w3-container">
+                        <p>Some text..</p>
+                    </div>
+                    <div id="Demo2" class="w3-hide w3-container">
+                        <p>Some other text..</p>
+                    </div>
+     
+                </div>      
+            </div>
+            <br>
+      
+            <!-- Interests --> 
+            <div class="w3-card-2 w3-round w3-white w3-hide-small"></div>
+            <br>
+      
+            <!-- Alert Box --><!-- End Left Column -->
+        </div>
+    
+        <!-- Middle Column -->
+        <div class="w3-col m8">
+    
+            <div class="w3-row-padding">
+                <form id="f1"action="/Niveaux/Renit/" method="post">
+        
+                    <input type="hidden" name="diff" value="@Session["diff"]" />
+                     
+                </form>
+                <div class="w3-card-4 w3-round w3-white w3-padding e w3-padding-24 w3-margin-left">
+                    <div class="w3-container w3-padding e">
+                        <span style="font-size: 30px;  "  class="w3-padding w3-left i"><strong class="w3-padding">MES EVALUATIONS CERTIFICATIVES </strong></span>
+                      
+                        <button type="submit" style="margin-top:12px;" form="f1" class="w3-button i w3-right w3-padding w3-white "><em class="fa fa-refresh "></em> <strong>Réinitialiser</strong></button> 
+                    </div>
+                    <div class=" "><br>
+       
+                        <table class=" w3-card-4 w3-table w3-border w3-bordered w3-centered w3-hoverable  w3-xlarge">
+                            @*<tr>
+      
+                                <th>
+                                    @Html.DisplayNameFor(model => model.titre_niv)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.description_niv)
+                                </th>
+                                <th></th>
+                            </tr>*@
+
+                            @foreach (var item in Model) {
+                                <tr>
+    
+                                    <td>
+                                        @{
+                                            if (l[i] == 1)
+                                            {
+                                                <form action="/Questions/Select/" method="post">
+                                                    <input type="hidden" name="niv" value="@item.id"/>
+                                                    <button class="w3-button w3-left" type="submit"><strong>@item.titre_niv</strong></button>
+                                                </form>
+                                            }
+                                            else
+                                            {
+
+                                                <div class="w3-button w3-left" style="color: gray">@Html.Label(@item.titre_niv)</div>
+                                            }
+
+                                        }
+                
+                
+                                    </td>
+                                    <td>
+                                        <span class="w3-right"> @(ls[i] * (100 / 8)) <span>%</span></span>
+                                        
+                                        @{
+                                            i++;
+                                        }
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.description_niv)
+                                    </td>
+                       
+                                </tr>
+                            }
+                        </table> 
+                    </div>
+                </div>
+        
+            </div>
+      
+    
+            <!-- End Middle Column -->
+        </div>
+    
+        <!-- Right Column -->
+        <div class="w3-col m2">
+            <div class="w3-card-2 w3-round w3-white w3-center"></div>
+            <br>
+            <br>
+            <!-- End Right Column -->
+        </div>
+    
+        <!-- End Grid -->
+    </div>
+
+    <!-- End Page Container -->
+</div>
+<br>

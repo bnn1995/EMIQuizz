@@ -1,0 +1,50 @@
+﻿@model Voltaire.Models.ScoreNiveau
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ScoreNiveau</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.usr_email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.usr_email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id_niveau)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_niveau)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id_diff)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_diff)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.score_niveau)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.score_niveau)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

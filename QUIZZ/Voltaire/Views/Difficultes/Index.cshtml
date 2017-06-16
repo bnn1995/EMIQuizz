@@ -1,0 +1,99 @@
+﻿
+@using System.Web.UI.WebControls
+@model IEnumerable<Voltaire.Models.Difficulte>
+@{
+    Layout = "~/views/shared/_LayD.cshtml";
+}
+<br>
+<br>
+        
+<h3 class="w3-center">
+    <div class="y"><strong>POUR ENSEIGNANTS ET APPRENANTS</strong></div>
+    <strong> EMI-QUIZZ VOUS ASSISTE DURANT VOTRE FORMATION</strong></h3>
+<br>
+<br>
+<div class="w3-col m4">
+    <div class="w3-container w3-orange w3-round w3-margin "><br>
+       
+        
+        <div style="font-size: 12px">EVALUATION</div>
+        <h4><strong>CERTIFICATIVE</strong></h4>
+      
+        <br>
+        <hr class="w3-clear">
+        <p>L’évaluation certificative permet de délivrer un certificat à l’issue d’une formation. Le professeur évalue par une note .</p>
+        <div class="w3-row-padding" style="margin:0 -16px">
+            <div class="w3-half">
+                <img src="~/Content/img/1.png" style="width:100%" alt="Northern Lights" class="w3-margin-bottom">
+            </div>
+            <div class="w3-half">
+                <img src="~/Content/img/2.png" style="width:100%" alt="Nature" class="w3-margin-bottom">
+            </div>
+        </div>
+                       
+        <form action="/Niveaux/Index/" method="post">
+            <input type="hidden" name="diff" value="@Model.ElementAt(0).id" />
+            <button type="submit" class="w3-button w3-margin-bottom d"><em class="fa fa-cogs"><strong> Tester</strong></em></button> 
+        </form>
+    </div>
+</div>
+
+<div class="w3-col m4">
+    <div class="w3-container w3-orange w3-round w3-margin ">
+        <br>
+
+    
+
+        <div style="font-size: 12px">EVALUATION</div>
+        <h4><strong>NORMATIVE</strong></h4>
+
+
+        <br>
+        <hr class="w3-clear">
+        <p>Une évaluation normative, les QCM facilitent la diffusion des résultats du groupe (score, résultat par question).</p>
+        <div class="w3-row-padding" style="margin:0 -16px">
+            <div class="w3-half">
+                <img src="~/Content/img/2.png" style="width:100%" alt="Northern Lights" class="w3-margin-bottom">
+            </div>
+            <div class="w3-half">
+                <img src="~/Content/img/1.png" style="width:100%" alt="Nature" class="w3-margin-bottom">
+            </div>
+        </div>
+
+        <form action="/Niveaux/Index/" method="post">
+            <input type="hidden" name="diff" value="@Model.ElementAt(1).id" />
+            <button type="submit" class="w3-button w3-margin-bottom d"><em class="fa fa-cogs"><strong> Tester</strong></em></button>
+        </form>
+    </div>
+</div>
+
+<div class="w3-col m4">
+    <div class="w3-container w3-orange w3-round w3-margin ">
+        <br>
+
+
+
+        <div style="font-size: 12px">EVALUATION</div>
+        <h4><strong>Formative</strong></h4>
+       
+
+        <br>
+        <hr class="w3-clear">
+        <p>L’évaluation formative consiste à utiliser les QCM comme outil de formation, les enseignants ayant été encouragés à le faire</p>
+        <div class="w3-row-padding" style="margin:0 -16px">
+            <div class="w3-half">
+                <img src="~/Content/img/1.png" style="width:100%" alt="Northern Lights" class="w3-margin-bottom">
+            </div>
+            <div class="w3-half">
+                <img src="~/Content/img/2.png"style="width:100%" alt="Nature" class="w3-margin-bottom">
+            </div>
+        </div>
+
+        <form action="/Niveaux/Index/" method="post">
+            <input type="hidden" name="diff" value="@Model.ElementAt(2).id" />
+            <button type="submit" class="w3-button w3-margin-bottom d"><em class="fa fa-cogs"><strong> Tester</strong></em></button>
+        </form>
+    </div>
+</div>
+
+

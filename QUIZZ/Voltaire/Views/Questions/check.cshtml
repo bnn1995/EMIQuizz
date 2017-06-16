@@ -1,0 +1,57 @@
+﻿@*<h1>@ViewBag.message</h1>
+
+    <h4>la phrase coorecte est : @ViewBag.phrasecorrecte</h4>
+
+    <h4>la regle est : @ViewBag.regle</h4>
+    <h4>id de la regle :@ViewBag.reg</h4>
+    <h4>nbr de question pr cette regle @ViewBag.count</h4>
+    <h4>@ViewBag.i</h4>
+    <h4>id de la premier question  @ViewBag.p</h4>
+
+    <h4>score de cette regle @Session["scoreregle"]</h4>
+    <h4>le score du user @ViewBag.score</h4>
+    <h4>email du user @ViewBag.email</h4>
+    <h4>last q @Session["last"]</h4>
+    <h4>score niveau @Session["scoreniveau"]</h4>
+
+    <form action="/Questions/Suivant/" method="post">
+        <input type="hidden" name="id" value="@ViewBag.next" />
+        <input type="hidden" name="niv" value="@Session["niv"]" />
+        <input type="submit" value="suivant" />
+    </form>*@
+<form action="/Questions/Suivant/" method="post" id="form1">
+    <input type="hidden" name="id" value="@ViewBag.next" />
+    <input type="hidden" name="niv" value="@Session["niv"]" />
+</form>
+
+<div class="w3-container w3-margin w3-padding">
+
+    <div class="w3-card-4" style="width: 100%">
+        @{if (@ViewBag.message == "bravo")
+            {  <header style="background-color:  #A2D416" class="w3-container">
+            <h1>Bonne réponse !</h1>
+        </header>}
+            else
+            {  <header style="background-color: #FAA61A" class="w3-container">
+            <h1>Mauvaise réponse !</h1>
+        </header>}}
+
+        <div class="w3-container">
+            <br />
+            <div>
+                <h4><strong>La regle est :</strong></h4>
+            </div> <h4>@ViewBag.regle</h4>
+            <hr>
+            <div>
+                <h4><strong>Explication :</strong></h4>
+            </div> <h4>@ViewBag.explication</h4>
+            <hr>
+       
+            <div>
+                <h4><strong>La phrase correcte est :</strong></h4>
+            </div><h4 class="w3-centered">@ViewBag.phrasecorrecte</h4><br>
+        </div>
+        <div>
+            <button type="submit" value="Submit" form="form1" style="background-color:  #A2D416" class="w3-btn w3-block"><h4>Suivant</h4></button>
+        </div>
+    </div>

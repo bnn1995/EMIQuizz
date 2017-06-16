@@ -1,0 +1,372 @@
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\csc.exe
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\vbc.exe
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\VBCSCompiler.exe
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Voltaire.dll.config
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Voltaire.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Voltaire.pdb
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Antlr3.Runtime.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\EntityFramework.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\EntityFramework.SqlServer.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Google.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Newtonsoft.Json.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Owin.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Helpers.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Mvc.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Optimization.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Razor.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.WebPages.Deployment.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.WebPages.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.WebPages.Razor.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\WebGrease.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Helpers.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Mvc.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Optimization.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Razor.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.WebPages.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.WebPages.Deployment.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.WebPages.Razor.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Antlr3.Runtime.pdb
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Newtonsoft.Json.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\EntityFramework.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\EntityFramework.SqlServer.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Google.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\obj\Debug\Voltaire.csprojResolveAssemblyReference.cache
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\obj\Debug\Voltaire.dll
+c:\users\bnn\documents\visual studio 2015\Projects\Voltaire\Voltaire\obj\Debug\Voltaire.pdb
+C:\Users\bnn\Documents\Visual Studio 2015\Projects\Voltaire\Voltaire\bin\System.Net.Http.Formatting.dll
+C:\Users\bnn\Documents\Visual Studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Http.dll
+C:\Users\bnn\Documents\Visual Studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Http.WebHost.dll
+C:\Users\bnn\Documents\Visual Studio 2015\Projects\Voltaire\Voltaire\bin\System.Net.Http.Formatting.xml
+C:\Users\bnn\Documents\Visual Studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Http.xml
+C:\Users\bnn\Documents\Visual Studio 2015\Projects\Voltaire\Voltaire\bin\System.Web.Http.WebHost.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\csc.exe
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\vbc.exe
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\VBCSCompiler.exe
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Voltaire.dll.config
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Voltaire.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Voltaire.pdb
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Antlr3.Runtime.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\EntityFramework.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\EntityFramework.SqlServer.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Newtonsoft.Json.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Owin.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Net.Http.Formatting.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Helpers.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Http.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Http.WebHost.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Mvc.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Optimization.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Razor.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.WebPages.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.WebPages.Razor.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\WebGrease.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Net.Http.Formatting.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Http.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Http.WebHost.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Helpers.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Mvc.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Optimization.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.Razor.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.WebPages.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\System.Web.WebPages.Razor.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Antlr3.Runtime.pdb
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Newtonsoft.Json.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\EntityFramework.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\EntityFramework.SqlServer.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\obj\Debug\Voltaire.csprojResolveAssemblyReference.cache
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\obj\Debug\Voltaire.dll
+C:\Users\ghizou\Desktop\Voltaire\Voltaire\obj\Debug\Voltaire.pdb
+D:\Voltaire\Voltaire\bin\roslyn\csc.exe
+D:\Voltaire\Voltaire\bin\roslyn\csc.exe.config
+D:\Voltaire\Voltaire\bin\roslyn\csc.rsp
+D:\Voltaire\Voltaire\bin\roslyn\csi.exe
+D:\Voltaire\Voltaire\bin\roslyn\csi.exe.config
+D:\Voltaire\Voltaire\bin\roslyn\csi.rsp
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Voltaire\Voltaire\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.AppContext.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Collections.Immutable.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Console.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Diagnostics.Process.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.IO.Compression.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.IO.FileSystem.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.IO.Pipes.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Reflection.Metadata.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Security.AccessControl.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Security.Claims.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Threading.Thread.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.ValueTuple.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Xml.XPath.dll
+D:\Voltaire\Voltaire\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Voltaire\Voltaire\bin\roslyn\vbc.exe
+D:\Voltaire\Voltaire\bin\roslyn\vbc.exe.config
+D:\Voltaire\Voltaire\bin\roslyn\vbc.rsp
+D:\Voltaire\Voltaire\bin\roslyn\VBCSCompiler.exe
+D:\Voltaire\Voltaire\bin\roslyn\VBCSCompiler.exe.config
+D:\Voltaire\Voltaire\bin\Voltaire.dll.config
+D:\Voltaire\Voltaire\bin\Voltaire.dll
+D:\Voltaire\Voltaire\bin\Voltaire.pdb
+D:\Voltaire\Voltaire\bin\Antlr3.Runtime.dll
+D:\Voltaire\Voltaire\bin\EntityFramework.dll
+D:\Voltaire\Voltaire\bin\EntityFramework.SqlServer.dll
+D:\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Voltaire\Voltaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Google.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Voltaire\Voltaire\bin\Microsoft.Web.Infrastructure.dll
+D:\Voltaire\Voltaire\bin\Newtonsoft.Json.dll
+D:\Voltaire\Voltaire\bin\Owin.dll
+D:\Voltaire\Voltaire\bin\System.Net.Http.Formatting.dll
+D:\Voltaire\Voltaire\bin\System.Web.Helpers.dll
+D:\Voltaire\Voltaire\bin\System.Web.Http.dll
+D:\Voltaire\Voltaire\bin\System.Web.Http.WebHost.dll
+D:\Voltaire\Voltaire\bin\System.Web.Mvc.dll
+D:\Voltaire\Voltaire\bin\System.Web.Optimization.dll
+D:\Voltaire\Voltaire\bin\System.Web.Razor.dll
+D:\Voltaire\Voltaire\bin\System.Web.WebPages.Deployment.dll
+D:\Voltaire\Voltaire\bin\System.Web.WebPages.dll
+D:\Voltaire\Voltaire\bin\System.Web.WebPages.Razor.dll
+D:\Voltaire\Voltaire\bin\WebGrease.dll
+D:\Voltaire\Voltaire\bin\Antlr3.Runtime.pdb
+D:\Voltaire\Voltaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.xml
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.xml
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Google.xml
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Voltaire\Voltaire\bin\Newtonsoft.Json.xml
+D:\Voltaire\Voltaire\bin\System.Net.Http.Formatting.xml
+D:\Voltaire\Voltaire\bin\System.Web.Http.xml
+D:\Voltaire\Voltaire\bin\System.Web.Http.WebHost.xml
+D:\Voltaire\Voltaire\bin\System.Web.Helpers.xml
+D:\Voltaire\Voltaire\bin\System.Web.Mvc.xml
+D:\Voltaire\Voltaire\bin\System.Web.Optimization.xml
+D:\Voltaire\Voltaire\bin\System.Web.Razor.xml
+D:\Voltaire\Voltaire\bin\System.Web.WebPages.xml
+D:\Voltaire\Voltaire\bin\System.Web.WebPages.Deployment.xml
+D:\Voltaire\Voltaire\bin\System.Web.WebPages.Razor.xml
+D:\Voltaire\Voltaire\bin\EntityFramework.xml
+D:\Voltaire\Voltaire\bin\EntityFramework.SqlServer.xml
+D:\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Voltaire\Voltaire\obj\Debug\Voltaire.dll
+D:\Voltaire\Voltaire\obj\Debug\Voltaire.pdb
+D:\Voltaire\Voltaire\obj\Debug\Voltaire.csprojResolveAssemblyReference.cache
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\csc.exe
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\csc.exe.config
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\csc.rsp
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\csi.exe
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\csi.exe.config
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\csi.rsp
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.AppContext.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Console.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.IO.Compression.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Security.Claims.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Threading.Thread.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.ValueTuple.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\vbc.exe
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\vbc.exe.config
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\vbc.rsp
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\VBCSCompiler.exe
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Voltaire.dll.config
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Voltaire.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Voltaire.pdb
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Antlr3.Runtime.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\EntityFramework.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\EntityFramework.SqlServer.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Newtonsoft.Json.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Owin.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Net.Http.Formatting.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Helpers.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Http.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Http.WebHost.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Mvc.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Optimization.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Razor.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.WebPages.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.WebPages.Razor.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\WebGrease.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Antlr3.Runtime.pdb
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Newtonsoft.Json.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Net.Http.Formatting.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Http.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Http.WebHost.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Helpers.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Mvc.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Optimization.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.Razor.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.WebPages.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\System.Web.WebPages.Razor.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\EntityFramework.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\EntityFramework.SqlServer.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\obj\Debug\Voltaire.csprojResolveAssemblyReference.cache
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\obj\Debug\Voltaire.dll
+C:\Users\bnn\Desktop\volt compress\Voltaire\Voltaire\obj\Debug\Voltaire.pdb

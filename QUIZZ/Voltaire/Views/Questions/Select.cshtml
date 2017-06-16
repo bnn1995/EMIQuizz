@@ -1,0 +1,165 @@
+﻿
+<script src="~/Scripts/jquery-3.1.1.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+<script type="text/javascript">
+
+
+    function disablelink() {
+    
+        $(".b").removeAttr("href");
+
+    };
+
+</script>
+
+@model String[]
+
+@{
+    Layout = "~/views/shared/_LayQ.cshtml";
+}
+
+<!-- Page Container -->
+<div class="w3-container w3-content" style="max-width:1400px;margin-top:80px">    
+    <!-- The Grid -->
+    <div class="w3-row">
+        <!-- Left Column -->
+        <div class="w3-col m3">
+            <!-- Profile -->
+            <div class="w3-card-2 w3-round w3-white">
+                <div class="w3-container w3-padding">
+                    <h4 class="w3-center">Ayoub Bennouna</h4>
+                    <p class="w3-center"><img src="~/Content/img/3.png" style="height:106px;width:106px" alt="Avatar"></p>
+                    <hr>
+                    <p><em class="fa fa-pencil fa-fw w3-margin-right w"></em>Etudiant</p>
+                    <p><em class="fa fa-home fa-fw w3-margin-right w"></em> Rabat,Agdal</p>
+                    <p><em class="fa fa-birthday-cake fa-fw w3-margin-right w"></em> Mai 18, 1995</p>
+                </div>
+            </div>
+            <br>
+      
+            <!-- Accordion -->
+            <div class="w3-card-2 w3-round">
+                <div class="w3-white">
+                    <div id="Demo1" class="w3-hide w3-container">
+                        <p>Some text..</p>
+                    </div>
+                    <div id="Demo2" class="w3-hide w3-container">
+                        <p>Some other text..</p>
+                    </div>
+     
+                </div>      
+            </div>
+            <br>
+      
+            <!-- Interests --> 
+            <div class="w3-card-2 w3-round w3-white w3-hide-small"></div>
+            <br>
+      
+            <!-- Alert Box --><!-- End Left Column -->
+        </div>
+    
+        <!-- Middle Column -->
+        <div class="w3-col m8">
+    
+            <div class="w3-row-padding">
+        
+                <div class="w3-card-4 w3-round w3-white w3-padding e  w3-margin-left w3-center">
+                    <br>
+                    <br>
+                    <br>
+@foreach (var mot in Model)
+{
+    <span class="w3-xlarge b ">@mot</span>
+}
+
+                    <br/>
+                    <br/>
+                    <hr/>
+                    <div id="cor"></div>
+              
+                        @for (int i = 0; i < 6; i = i + 2)
+                        {
+
+                          
+                                <div class="w3-xlarge b">
+                                    @Ajax.ActionLink(@Model[i], "Check", "Questions", new { id = @ViewBag.id, reponse = @Model[i] }, new AjaxOptions()
+                                    {
+                                        HttpMethod = "GET",
+                                        UpdateTargetId = "cor",
+                                        InsertionMode = InsertionMode.Replace,
+
+                                        OnComplete = "disablelink"
+                                    }, new
+                                    {
+                                        @class = "c w3-button  w3-round-large w3-margin",
+                                        @style = "text-decoration: none;width:200px"
+                                    })
+                                </div>
+                               
+                           
+
+                     
+
+                        }
+             
+                        @*@foreach(var mot in Model)
+            {
+
+                <div class="w3-xlarge b">@Ajax.ActionLink(@mot, "Check", "Questions", new {id = @ViewBag.id, reponse = @mot}, new AjaxOptions()
+                                        {
+                                            HttpMethod = "GET",
+                                            UpdateTargetId = "cor",
+                                            InsertionMode = InsertionMode.Replace,
+
+                                            OnComplete = "disablelink"
+                                        }, new
+                                        {
+                                            @class = "b",
+                                            @style = "text-decoration: none"
+                                        })</div>
+
+            }*@
+                        
+
+                        @*retourner vers la liste des niveaux*@
+                        @*<form action="/Niveaux/Index/" method="post">
+                <input type="hidden" name="diff" value="@Session["diff"]"/>
+                <input type="submit" value="Retour"/>
+            </form>*@
+
+                        <br>
+                        <br>
+                        <br>
+                        @*quand il n y a pas de faute*@
+                        @*<button class="w3-button b e w3-round-large  w3-xlarge">*@@Ajax.ActionLink("IL N'Y A PAS DE FAUTE", "Check", "Questions", new { id = @ViewBag.id, reponse = "none" }, new AjaxOptions()
+                                                                           {
+                                                                               HttpMethod = "GET",
+                                                                               UpdateTargetId = "cor",
+                                                                               InsertionMode = InsertionMode.Replace,
+
+                                                                               OnSuccess = "disablelink"
+                                                                           }, new { @class = "c w3-button  w3-round-large  w3-xlarge", @style = "text-decoration:none" })@*</button>*@
+                                                                        <br>
+                                                                        <br>
+
+</div>
+            </div>
+      
+    
+            <!-- End Middle Column -->
+        </div>
+    
+        <!-- Right Column -->
+        <div class="w3-col m2">
+            <div class="w3-card-2 w3-round w3-white w3-center"></div>
+            <br>
+            <br>
+            <!-- End Right Column -->
+        </div>
+    
+        <!-- End Grid -->
+    </div>
+
+    <!-- End Page Container -->
+</div>

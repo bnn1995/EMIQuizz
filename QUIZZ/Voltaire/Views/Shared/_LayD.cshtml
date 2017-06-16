@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html>
+<title> Acceuil </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue-grey.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    html,
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        font-family: "Open Sans", sans-serif
+    }
+
+</style>
+<style type="text/css">
+    .i {color:white}
+    .c {
+        color: white;
+        background-color: #063852
+    }
+    
+    .w {
+        color: #3B5998
+    }
+    
+    .d {
+        color: black;
+        background-color: #E9E8E9
+    }
+    
+    .b {
+        color: black
+    }
+    
+    .d {
+        color: white;
+        background-color: black
+    }
+    
+    .y {
+        color: #FAA61A;
+    }
+    .qo {
+        color: #063852;
+    }
+    .e {
+        color: black;
+        background-color: #063852  }
+    .r{
+        color: black;
+        background-color: #D4EAAF;
+    }
+</style>
+
+<body style="background-color:oldlace">
+
+<!-- Navbar -->
+<div class="w3-top">
+    <div class="w3-bar c  w3-left-align w3-large"><a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-theme-d2"><em class="fa fa-bars"></em></a>
+        <a href="acceuil.html">
+            <div class="w3-bar-item w3-padding-large  w3-button"><em style="font-size:24px" class="fa fa-quora w3-margin-right i"></em> <span style=" font-family: Snell Roundhand;color: white;font-stretch: ultra-expanded"><strong> EMI-</strong> <strong>Quizz</strong></span><br>
+            </div>
+        </a>
+         
+
+        <div class="w3-dropdown-hover w3-hide-small">
+            <button class="w3-button w3-padding-large" title="Notifications"><i class="fa fa-bell"></i><span class="w3-badge w3-right w3-small w3-green">3</span></button>     
+            <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="width:300px">
+                <a href="#" class="w3-bar-item w3-button w3-border-bottom">Vous avez un examen en Physique</a>
+                <a href="#" class="w3-bar-item w3-button w3-border-bottom">Vous avez un examen en Mathématiques</a>
+                <a href="#" class="w3-bar-item w3-button w3-border-bottom">Vous avez un examen en Informatique</a>
+                <a href="#" style="color: #3B77F4" class="w3-bar-item w3-button w3-border-bottom w3-center">Voir tout</a>
+            </div>
+        </div>
+ 
+        <span class="w3-bar-item w3-right   i" style="font-size: 16px;margin-top:5px;">@Html.Partial("_LoginPartial")</span>
+    </div>
+</div>
+
+
+<!-- Page Container -->
+<div class="w3-container w3-content" style="max-width:1400px;margin-top:80px">
+
+
+
+
+
+
+
+ 
+    @RenderBody()
+        
+
+   
+
+</div>
+<br>
+
+    
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", required: false)
+
+</body>
+
+</html>
